@@ -1,0 +1,178 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &8037729002482818771
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 249575398249317592, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: task
+      value: 
+      objectReference: {fileID: 4830461777153814453}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstDialogue.Array.size
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _secondDialogue.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstDialogue.Array.data[0]
+      value: It's a beautiful day today, isn't it?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstDialogue.Array.data[1]
+      value: A perfect day to...
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstDialogue.Array.data[2]
+      value: wait
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstDialogue.Array.data[3]
+      value: My glasses!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstDialogue.Array.data[4]
+      value: Where did I leave them?!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstDialogue.Array.data[5]
+      value: You there! Wizard! Would yo be so kind as to look for my glasses?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstDialogue.Array.data[6]
+      value: Thanks a million. Return to me when you have found them.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _secondDialogue.Array.data[0]
+      value: Did you find my glasses?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _secondDialogue.Array.data[1]
+      value: No?
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _secondDialogue.Array.data[2]
+      value: Well, no worries. Just keep looking.
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstTaskDoneDialogue.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _secondTaskDoneDialogue.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstTaskDoneDialogue.Array.data[0]
+      value: Oh! You found my glasses!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstTaskDoneDialogue.Array.data[1]
+      value: Thanks for your help!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _firstTaskDoneDialogue.Array.data[2]
+      value: Thanks for your help!
+      objectReference: {fileID: 0}
+    - target: {fileID: 2740271399553827615, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: _secondTaskDoneDialogue.Array.data[0]
+      value: Thanks for your help!
+      objectReference: {fileID: 0}
+    - target: {fileID: 4076380616273663253, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4076380616273663253, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.29
+      objectReference: {fileID: 0}
+    - target: {fileID: 5343309587378128098, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6345481051185107830, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b4daee2938771a04fb5e9cd4ea2008fe, type: 3}
+    - target: {fileID: 7469326606763808028, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_Name
+      value: GateKeeper
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.142244
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -2.848024
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.0094502345
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8567120530492855557, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 7469326606763808028, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4830461777153814453}
+  m_SourcePrefab: {fileID: 100100000, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+--- !u!1 &586557604798401487 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7469326606763808028, guid: 44a3e7c3374b4474eb7fd22636cc8c6c, type: 3}
+  m_PrefabInstance: {fileID: 8037729002482818771}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4830461777153814453
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 586557604798401487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7da21e607c19614469aeb6e99c04d59c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  TaskDone: 0
+  Type: 0
+  ItemToGet: 1
